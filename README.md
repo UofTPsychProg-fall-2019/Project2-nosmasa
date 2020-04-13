@@ -11,9 +11,11 @@ For example: in quadrant 1 LMCI and low education seem to be similar to one anot
 
 Graph 4 shows all individuals within the study relationships to each other
 
-The Scree plot attached demonstrates: 
+The Scree plot.PNG is  
 The eigenvalues of factors and is used to determine the number of factors to retain in an exploratory correspondence analysis. 
 The eigenvalues here for dimension 1 = 0.1415, 16.93% varience explained and dimension 3 = 0.1207, 14.43% variance explained 
+
+Visualize Diagnosis Age Sex Graph.PNG is a visualization of diosgnstic status by age filtered by sex. 
 
 Legend for the variables in the excel sheet: 
 ID	= Subject ID 
