@@ -21,6 +21,8 @@ The eigenvalues here for dimension 1 = 0.1415, 16.93% varience explained and dim
 
 3.Visualize Diagnosis Age Sex Graph.PNG is a visualization of diosgnstic status by age filtered by sex. 
 
+FEEL FREE TO RUN THE PIPELINE YOURSELF, just need to download the excel file.
+
 Legend for the variables in the excel sheet: 
 ID	= Subject ID 
 Diagnosis	 
