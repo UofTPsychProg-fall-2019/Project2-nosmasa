@@ -141,7 +141,9 @@ df_CA$GDRLow = 1-df_CA$GDRHigh#lower bound fuzzy coding
 #Now that all the variables are recoded the correspondance analysis can be run 
 
 #RESULTS (Correspondance Analysis) -------------- 
-
+#use the exposition library ep Correspondance analysis function 
+#na.omit to omit NAs 
+#[1:90,2:31] because we don't want to include the subject ID numbers to the analysis 
 results <- epCA(na.omit(df_CA[1:90,2:31]), graphs = T)
 
 #Eigenvalues, variance percentages, cumulative variance percentages given 
