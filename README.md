@@ -19,7 +19,7 @@ Once the data is recoded the correspondence analysis is run, this is represented
 The eigenvalues of factors and is used to determine the number of factors to retain in an exploratory correspondence analysis. 
 The eigenvalues here for dimension 1 = 0.1415, 16.93% varience explained and dimension 3 = 0.1207, 14.43% variance explained 
 
-5.Visualize Diagnosis Age Sex Graph.PNG is a visualization of diosgnstic status by age filtered by sex. 
+3.Visualize Diagnosis Age Sex Graph.PNG is a visualization of diosgnstic status by age filtered by sex. 
 
 Legend for the variables in the excel sheet: 
 ID	= Subject ID 
